@@ -1,0 +1,6 @@
+{
+  "name": "자소서 치트키 (CheatKey)",
+  "description": "내 이력과 채용공고를 분석하여 STAR 기법 기반의 맞춤형 자기소개서를 자동으로 완성해 주는 AI 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
